@@ -1,0 +1,24 @@
+nanti nilai nya dari buat software
+
+ringkasan : 
+algoritma adalah langkah langkah (flowchart)
+
+ide kreatif 
+1.tanya angka 1
+2.tanya angka 2 
+3. tanya operasi
+4. berikan hasil
+5. selesai
+
+contoh : 
+2 - 5 = -3
+2 + 2 = 4
+3 * 2 = 6
+10 / 2 = 5
+
+kita tuangkan ke flow chart
+shap shape di flow chart 
+lingkaran = mulai dan selesai
+yang bisa kiri kanan = mendeklarasikan variable
+jajargenjang = hasil atau laporan dan input
+persegi panjang = proses
