@@ -1,0 +1,50 @@
+1. Jelaskan secara bertahap cara sistem operasi bekerja
+2. Apa yang dimaksud dengan hardisk beserta struktur dasarnya.
+3. Jelaskan jenis jenis file sistem yg di ketahui.
+4. Sebutkan sistem file partisi pada Linux.
+5. Jelaskan perbedaan fat12,fat32 dan ntfs
+
+jawab
+1. - Pemasukan (Input)
+   - Pemrosesan (Process)
+   - Pengeluaran (Output)
+   - Penyimpanan (Storage)
+
+2. Hard disk adalah sebuah hardware yang biasa digunakan untuk menyimpan 
+data di sebuah komputer atau laptop.OS, software dan kebanyakan file semua 
+disimpan di drive hard disk.
+bagian-bagiannya yaitu:
+- Cover Mounting Holes (Cover not shown)
+- Base Casting
+- Actuator Arm
+- Actuator Axis
+- Actuator
+- Spindle
+- Slider (and Head)
+- SCSI Interface Connector, (ATA/IDE)
+- Jumper Pins
+- Jumper
+- Power Connector
+- Tape Seal
+- Ribbon Cable (Attaches Heads to Logic board)
+- Platters
+- Case Mounting Holes
+- Circuit Board
+
+3.jenis jenis nya adalah:
+-  FAT32
+- NTFS
+- HFS+
+- Ext2/Ext3/Ext4
+- Btrfs
+
+4. 
+- Root atau biasa diberi tanda (/) 
+- /home
+- /boot
+- Swap, atau Ruang SWAP
+
+5. perbedaannya adalah:
+FAT12 adalah sistem berkas yang menggunakan ukuran unit alokasi yang memiliki batas hingga 12-bit, sehingga hanya dapat menyimpan maksimum hingga 212 unit alokasi saja (4096 buah).
+FAT32 adalah sistem file tertua yang dikembangkan pada tahun 1970-an yang tersedia untuk sistem operasi Windows
+ntfs adalah NTFS kepanjangan dari New Technology File System, yang merupakan sebuah sistem berkas yang masukkan oleh Microsoft dalam kumpulan sistem operasi windows NT, yang terdiri dari Windows 2000, Windows XP, Windows Server 2003, Windows Vista, Windows 7.

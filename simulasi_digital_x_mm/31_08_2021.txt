@@ -1,0 +1,18 @@
+1. Search engine
+1.Google
+2.Yahoo
+3.DuckDuckGo
+4.Ask
+5.Bing
+
+2.web engine
+1.Chorme
+2.Mozilla firefox
+3.Safari
+4.Opera
+5.UC browser
+
+cara kerja search engine
+1.crawling (penelusuran/penjelajahan)
+2.indexing (pengindeksan)
+3.Ketiga, ranking (peringkat)
